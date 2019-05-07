@@ -3,7 +3,7 @@
 <html >
 <head>
     <meta charset="UTF-8">
-    <title>精美的CSS3登录注册切换表单页面模板</title>
+    <title>登录</title>
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/icon?family=Material+Icons'>
@@ -16,16 +16,16 @@
             <div class="cont_info_log_sign_up">
                 <div class="col_md_login">
                     <div class="cont_ba_opcitiy">
-                        <h2>LOGIN</h2>
+                        <h2>登录</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur.</p>
-                        <button class="btn_login" onClick="cambiar_login()">LOGIN</button>
+                        <button class="btn_login" onClick="cambiar_login()">登录</button>
                     </div>
                 </div>
                 <div class="col_md_sign_up">
                     <div class="cont_ba_opcitiy">
-                        <h2>SIGN UP</h2>
+                        <h2>注册</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur.</p>
-                        <button class="btn_sign_up" onClick="cambiar_sign_up()">SIGN UP</button>
+                        <button class="btn_sign_up" onClick="cambiar_sign_up()">注册</button>
                     </div>
                 </div>
             </div>
@@ -57,4 +57,3 @@
 
 </body>
 </html>
-
